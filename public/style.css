@@ -1,0 +1,39 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans|Source+Sans+Pro);
+
+html{
+  height
+}
+
+body{
+  height:100%;
+  background-image: url("img/dark-bg1.jpg");
+  color: lightblue;
+  text-align: center;
+  font-family:" 'Source Sans Pro', sans-serif;"
+  font-size: 22px;
+}
+
+h1 {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.btn {
+  font-size: inherit;
+  color: white;
+  background-color: purple;
+  text-decoration: none;
+  padding: 1em;
+  margin-bottom: 1.5cm;
+  display: inline-block;
+}
+.title {
+ font-size: 5em;
+}
+.guess{
+  font-size: 2em;
+  display: block;
+  margin: 0 auto 1.5em;
+}
+.trophy{
+  height: 40vmin;
+}
